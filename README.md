@@ -1,6 +1,3 @@
-# digitalmug03.github.io
-hello world
+the mug store
+welcome 2 my website
 
-layout: page
-title: "about me"
-permalink: /about
