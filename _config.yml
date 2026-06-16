@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: megan's portfolio
 description: personal website test
+
+layout: page
+title: "about me"
+permalink: /about
